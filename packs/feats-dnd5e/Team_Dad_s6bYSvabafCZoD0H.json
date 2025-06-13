@@ -1,0 +1,60 @@
+{
+  "name": "Team Dad",
+  "type": "feat",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Whether they’re officially a part of your family or not, you act as a team dad for the other members of your adventuring party, and that means offering your advice and assistance. While you’re not necessarily up front about it and might try to hide some of your effort behind the scenes, you’d do anything to see your literal or figurative children succeed. Choose up to five sapient creatures as your team children. They might or might not actually be your children, but either way, you’ve taken a fatherly role in your group toward them. You gain the following benefits.</p><p><strong>Dad Advice.</strong> When one of your team children within 60 feet who can see or hear you fails a d20 Test by 2 or less without rolling a natural 1, you can take a Reaction to call out a quick bit of advice, make an emphatic gesture, or use a more subtle technique to guide away from failure. If you do, the team child gains a +2 bonus on their check, changing the result to a success. However, your focus on your team child distracts you from your own challenges. On your next turn, your speed is halved, and you can use either an action or a bonus action, not both.</p><p><strong>Dad Obsession.</strong> You have a particular hobby or obsession, and you won’t stop talking about it to any of your team children. You are proficient in a set of tools other than thieves’ tools associated with your obsession, for instance, gardening tools for a gardening obsession. Whether they care about your obsession or not, your team children can’t help but learn a bit about it through osmosis. All of your team children can add half their proficiency bonus, rounded down with that tool if they wouldn’t already be including their proficiency bonus.</p>",
+      "chat": ""
+    },
+    "identifier": "team-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 3
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763170530,
+    "modifiedTime": 1749763193924,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "s6bYSvabafCZoD0H",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!s6bYSvabafCZoD0H"
+}

@@ -1,0 +1,4 @@
+Change file for Battlezoo Ancestries: Dads Foundry VTT Module
+
+1.0 - June 14, 2025
+    • Initial release

@@ -1,0 +1,179 @@
+{
+  "name": "Sports Dad",
+  "type": "feat",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "system": {
+    "activities": {
+      "MeH3D9kmiN7HOKd2": {
+        "type": "utility",
+        "name": "Boasting Encouragement",
+        "_id": "MeH3D9kmiN7HOKd2",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "override": false,
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Sports matter to you more than they probably should, more than fundamentals most people find more important in life. They just don’t understand. Fortunately, at least some of your children have followed in your footsteps… or at least learned how to humor you. You become proficient in Athletics or gain Expertise in Athletics if you were already proficient, and you become proficient in Intimidation. When one of your team children critically hits a foe, you can take a Reaction to call out in boasting encouragement at the stunning feat of athleticism your kid just showed off! You and all team children within 60 feet gain Advantage on their next attack roll on their next turn.</p>",
+      "chat": ""
+    },
+    "identifier": "sports-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 7
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Sports Dad",
+      "img": "icons/skills/social/intimidation-impressing.webp",
+      "origin": "Item.QusKZhjB0Q1FvCFM",
+      "_id": "sR1eEmGTXFLcbC40",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.skills.ath.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.skills.itm.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!stPIQf1DF0Q27BkW.sR1eEmGTXFLcbC40"
+    }
+  ],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765080862,
+    "modifiedTime": 1749765278779,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "stPIQf1DF0Q27BkW",
+  "sort": 25000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!stPIQf1DF0Q27BkW"
+}

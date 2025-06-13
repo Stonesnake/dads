@@ -1,0 +1,318 @@
+{
+  "name": "Barbecue (d12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "description": "You really messed up today. You and your team children who ate the barbecue have intestinal distress throughout the day. For the first round of every combat encounter today, you and they are poisoned and feel intense stomach pangs.",
+      "_id": "5HZUdUmsplP4ASGS",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.5HZUdUmsplP4ASGS"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "description": "Your barbecue used some mysterious and questionable ingredients but still wound up tasting delicious, leaving everyone to ponder its mystery. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Intelligence ability checks and Intelligence saving throws.",
+      "_id": "089ydKQvddtUzn7W",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.089ydKQvddtUzn7W"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "description": "Your rollicking barbecue leaves everyone in a more sociable and gregarious mood. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Charisma ability checks and Charisma saving throws.",
+      "_id": "dpOr7APLwGEiuGqT",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.dpOr7APLwGEiuGqT"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "description": "Your barbecue was extra high in protein to ensure everyone could build muscle. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Strength ability checks and Strength saving throws.",
+      "_id": "PoxSYGkwkt6A6Jsk",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.PoxSYGkwkt6A6Jsk"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "description": "Your robust barbecue keeps everyone safe from sickness and fatigue. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Constitution ability checks and Constitution saving throws.",
+      "_id": "C1qGkjJPPTsJeWvp",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.C1qGkjJPPTsJeWvp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "description": "Your greasy barbecue leaves everyone as slippery as an eel but somehow still able to nimbly perform sleight of hand. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Dexterity ability checks and Dexterity saving throws.",
+      "_id": "RWzFt62bhZ6y0S7l",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.RWzFt62bhZ6y0S7l"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "description": "Your numinous barbecue inspires meditation and insight, or is that just a food coma? For the rest of the day, you and your team children who ate the barbecue gain Advantage on Wisdom ability checks and Wisdom saving throws.",
+      "_id": "Oa6rgwdvqlnc84Hw",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.Oa6rgwdvqlnc84Hw"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "description": "Your hearty barbecue increases everyone’s vigor. For the rest of the day, you and your team children who ate the barbecue increase their maximum Hit Points by their level, and they each gain the same number of Hit Points upon eating.",
+      "_id": "kR5Kael8GGQkcnHY",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.kR5Kael8GGQkcnHY"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "description": "Your sturdy barbecue toughens everyone up and protects them from harm. For the rest of the day, you and your team children who ate the barbecue gain a +2 bonus to AC.",
+      "_id": "LzEfgsjdLW5DynfK",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.LzEfgsjdLW5DynfK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "description": "Your powerful spicy barbecue increases everyone’s power. For the rest of the day, you and your team children who ate the barbecue hit a creature with a weapon (including a natural weapon or unarmed strike), they deal 1d8 extra damage to the target.",
+      "_id": "tMmLTYBheDhRbwoA",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.tMmLTYBheDhRbwoA"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "description": "Your magnificent barbecue makes everyone feel like heroes. For the rest of the day, you and your team children who ate the barbecue become immune to poison and frightened and have Advantage on all Constitution and Wisdom saving throws.",
+      "_id": "F8McUF8uuqXt8ptZ",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.F8McUF8uuqXt8ptZ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "description": "You created a sublime barbecue the likes of which the world has rarely seen. For the rest of the day, you and your team children who ate the barbecue add an extra 1d4 to all attack rolls and saving throws.",
+      "_id": "hsvJTA2nni8Wa7SZ",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sPOryBaZvxJGV3yq.hsvJTA2nni8Wa7SZ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763720372,
+    "modifiedTime": 1749763721907,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "formula": "2d12kh",
+  "_id": "sPOryBaZvxJGV3yq",
+  "sort": 300000,
+  "_key": "!tables!sPOryBaZvxJGV3yq"
+}

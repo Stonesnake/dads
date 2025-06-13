@@ -1,0 +1,109 @@
+{
+  "name": "Battlezoo Ancestries: Dads",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Dad Subclass",
+      "type": "text",
+      "_id": "zwzKaWri9aT5swNB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.RI0KZqdSPktRzsMH]{Dad}</p><p>The Dad subclass is available to those who wish to take on the role of “dad.”</p><h2>Level 3: Team Dad</h2><p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.s6bYSvabafCZoD0H]{Team Dad}</p><p>Whether they’re officially a part of your family or not, you act as a team dad for the other members of your adventuring party, and that means offering your advice and assistance. While you’re not necessarily up front about it and might try to hide some of your effort behind the scenes, you’d do anything to see your literal or figurative children succeed. Choose up to five sapient creatures as your team children. They might or might not actually be your children, but either way, you’ve taken a fatherly role in your group toward them. You gain the following benefits.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.ZZbvI2EzvcsLKWHB]{Dad Advice}.</strong> When one of your team children within 60 feet who can see or hear you fails a d20 Test by 2 or less without rolling a natural 1, you can take a Reaction to call out a quick bit of advice, make an emphatic gesture, or use a more subtle technique to guide away from failure. If you do, the team child gains a +2 bonus on their check, changing the result to a success. However, your focus on your team child distracts you from your own challenges. On your next turn, your speed is halved, and you can use either an action or a bonus action, not both.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.NK1MEpbxSvbn2KAH]{Dad Obsession}.</strong> You have a particular hobby or obsession, and you won’t stop talking about it to any of your team children. You are proficient in a set of tools other than thieves’ tools associated with your obsession, for instance, gardening tools for a gardening obsession. Whether they care about your obsession or not, your team children can’t help but learn a bit about it through osmosis. All of your team children can add half their proficiency bonus, rounded down with that tool if they wouldn’t already be including their proficiency bonus.</p><h2>Level 3: Dad Joke</h2><p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.quVuaQzx87h8xhfF]{Dad Joke}</p><p>You can tell dad jokes, distracting your foe. You are proficient in Performance. As a Bonus Action, attempt a [[/skill performance]] check against the Passive Perception of a foe within 30 feet. As part of using this feature, you can choose to tell a dad joke in real life. If you do, you gain a +1 bonus to the check, or +1d4 if the dad joke was truly groanworthy or legitimately funny (GM’s discretion). On a success, the foe has Disadvantage on Wisdom checks and Wisdom saving throws for 1 minute; they can end the effect early by responding to your dad joke, using their Bonus Action or performing an appropriate action. The GM determines what kinds of responses apply, and if the response requires a d20 Test, that d20 Test doesn’t need to be successful to end the effect early. Unfortunately, much like most dads, humoring you doesn’t stop the dad jokes, and if your foes play along with you or get mad, it only encourages you. If your foe ends your Dad Joke early with a response, you gain Advantage on all your checks to make Dad Jokes against them for 1 minute.</p><h2>Level 7: Dad Type</h2><p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.9BfQJjFdsh50MsFo]{Dad Type}</p><p>Decide whether you are a barbecue dad, a pet dad, or a sports dad. You gain one of the following features of your choice, based on your choice.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.MIg6qOdfkPyypbm9]{Barbecue Dad}.</strong> It might not make a lot of sense to the rest of your team, but you like to start each adventuring day with a little barbecue to grill food granting powerful benefits. And you often barbecue at night too even though it doesn’t strengthen your team in the same way… you just really love to barbecue. You are proficient in cooking utensils, and you gain Expertise in cooking utensils when used to barbecue. Each morning after your long rest, you can feed your allies a barbecue. The GM secretly rolls 1d8 on the Barbecue Table to determine the effect as you begin to digest the meal. The effect applies at the beginning of your first combat encounter or at another suitably dramatic time.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.GIqUdUbJ7yWzuFvK]{Pet Dad}.</strong> You’re convinced that your pet animal can understand your parental bond in a similar way to a sapient creature. While your acquaintances might be skeptical, you’ve proven it beyond a shadow of a doubt. You can choose nonsapient creatures as team children. You gain the Beast Master’s Primal Companion feature, with the following adjustments: You add the beast as a team child without counting against your usual limit of five team children. The beast is a real creature, rather than a magical one. It doesn’t vanish if you die, you can’t return it to life, and you can’t switch it out for a new one every Long Rest. Instead, you treat it as a member of your own family and mourn its death like you would a child. When you and the GM agree you’re ready to move on, you can choose a new beast. If you eventually decide you’ll never move on, you can instead change to one of the other dad types after your mourning period.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.stPIQf1DF0Q27BkW]{Sports Dad}.</strong> Sports matter to you more than they probably should, more than fundamentals most people find more important in life. They just don’t understand. Fortunately, at least some of your children have followed in your footsteps… or at least learned how to humor you. You become proficient in Athletics or gain Expertise in Athletics if you were already proficient, and you become proficient in Intimidation. When one of your team children critically hits a foe, you can take a Reaction to call out in boasting encouragement at the stunning feat of athleticism your kid just showed off! You and all team children within 60 feet gain Advantage on their next attack roll on their next turn.</p><h2>Level 11: Exceptional Dad</h2><p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.w7uomv9THxnAIQal]{Exceptional Dad}</p><p>You’re an exceptional dad, able to either double down on your dad type or branch out into others. Choose barbecue dad, pet dad, or sports dad. If you chose a different option than you did at level 7, you gain the level 7 feature for that type of dad. If you chose the same option as you did at level 7, you gain the new feature listed below with the matching name (for instance “Exceptional Pet Dad” for a Pet Dad).</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.bakHlZwTElmZ69hw]{Exceptional Barbecue Dad}.</strong> Your barbecues are especially exceptional. When you grill a morning barbecue, the GM secretly rolls a d10 on the Barbecue Table to determine the effect, rather than a d8.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.e90HsJHWbCzM797s]{Exceptional Pet Dad}.</strong> You gain the Beast Master’s Exceptional Training feature.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.ggqE0vUjz8ONjQtC]{Exceptional Sports Dad}.</strong> When one of your team children within 60 feet rolls a natural 1 on an attack roll against a foe and fails the attack roll, you can take a Reaction to unleash an intimidating string of abuse at how unfair the situation was, that the gods or the universe (or the poor referee if the encounter is a gladiatorial match or otherwise has one) made a bad call, and other such excuses. Roll a Charisma (Intimidation) check against the foe. On a success, your haranguing throws the foe off, and the foe has Disadvantage on all attack rolls for [[/r 1d4 #rounds]]{1d4 rounds}. However, if you also roll a natural 1 on the check, your team child feels so awkward about all the fuss that they have Disadvantage on their next attack roll made within the next 4 rounds.</p><h2>Level 15: Quintessential Dad</h2><p>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.nou8i6QJFvjdBcSm]{Quintessential Dad}</p><p>You’re a quintessential dad, either embodying your dad type as a paragon or branching out further. Choose barbecue dad, pet dad, or sports dad. If you chose an option you never selected before, you gain the level 7 feature for that type of dad, if you chose an option you’ve selected once before, you gain the exceptional feature for that type of dad from level 11, and if you chose the same option you selected both at level 7 and at level 11, you gain the new feature listed below with the matching name (for instance “Quintessential Pet Dad” for a Pet Dad).</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.17L0Ql6syG3t6HXN]{Quintessential Barbecue Dad}.</strong> Your barbecues are the stuff of legends, and even the gods might be tempted to crash one to enjoy your cuisine. When you grill a morning barbecue, the GM secretly rolls two d12 and takes the higher result when rolling on the Barbecue Table to determine the effect.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.9MubZgoV0CBNh7JK]{Quintessential Pet Dad}.</strong> You gain the Beast Master’s Bestial Fury feature.</p><p><strong>@UUID[Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.lihqITnbIB3trJyP]{Quintessential Sports Dad}.</strong> When it comes down to it, the only thing more important than sports is making sure your team children are safe. When an enemy would attack one of your team children within 60 feet, you can take a Reaction to give that enemy Disadvantage on their attack roll. You also gain an additional Reaction each round, which you can only use for one of your three Reactions from the Sports Dad subclass.</p><table><thead><tr><th>Die Roll (d8, d10, or d12)</th><th>Barbecue Effect</th></tr></thead><tbody><tr><td>1</td><td>You really messed up today. You and your team children who ate the barbecue have intestinal distress throughout the day. For the first round of every combat encounter today, you and they are poisoned and feel intense stomach pangs.</td></tr><tr><td>2</td><td>Your barbecue used some mysterious and questionable ingredients but still wound up tasting delicious, leaving everyone to ponder its mystery. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Intelligence ability checks and Intelligence saving throws.</td></tr><tr><td>3</td><td>Your rollicking barbecue leaves everyone in a more sociable and gregarious mood. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Charisma ability checks and Charisma saving throws.</td></tr><tr><td>4</td><td>Your barbecue was extra high in protein to ensure everyone could build muscle. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Strength ability checks and Strength saving throws.</td></tr><tr><td>5</td><td>Your robust barbecue keeps everyone safe from sickness and fatigue. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Constitution ability checks and Constitution saving throws.</td></tr><tr><td>6</td><td>Your greasy barbecue leaves everyone as slippery as an eel but somehow still able to nimbly perform sleight of hand. For the rest of the day, you and your team children who ate the barbecue gain Advantage on Dexterity ability checks and Dexterity saving throws.</td></tr><tr><td>7</td><td>Your numinous barbecue inspires meditation and insight, or is that just a food coma? For the rest of the day, you and your team children who ate the barbecue gain Advantage on Wisdom ability checks and Wisdom saving throws.</td></tr><tr><td>8</td><td>Your hearty barbecue increases everyone’s vigor. For the rest of the day, you and your team children who ate the barbecue increase their maximum Hit Points by their level, and they each gain the same number of Hit Points upon eating.</td></tr><tr><td>9</td><td>Your sturdy barbecue toughens everyone up and protects them from harm. For the rest of the day, you and your team children who ate the barbecue gain a +2 bonus to AC.</td></tr><tr><td>10</td><td>Your powerful spicy barbecue increases everyone’s power. For the rest of the day, you and your team children who ate the barbecue hit a creature with a weapon (including a natural weapon or unarmed strike), they deal 1d8 extra damage to the target.</td></tr><tr><td>11</td><td>Your magnificent barbecue makes everyone feel like heroes. For the rest of the day, you and your team children who ate the barbecue become immune to poison and frightened and have Advantage on all Constitution and Wisdom saving throws.</td></tr><tr><td>12</td><td>You created a sublime barbecue the likes of which the world has rarely seen. For the rest of the day, you and your team children who ate the barbecue add an extra 1d4 to all attack rolls and saving throws.</td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "l2rbNx2a8f5ocpeL": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": "1jxGp7IRWiSzPmsk",
+        "modifiedTime": 1749766334442
+      },
+      "category": null,
+      "_key": "!journal.pages!OR8FNAscUkKTu5Hc.zwzKaWri9aT5swNB"
+    },
+    {
+      "sort": 0,
+      "name": "Dads",
+      "type": "image",
+      "_id": "8jC0aO5WrAsYxbvD",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/dads-cover-blank.webp",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1jxGp7IRWiSzPmsk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "createdTime": 1749766181115,
+        "modifiedTime": 1749766211926,
+        "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+      },
+      "_key": "!journal.pages!OR8FNAscUkKTu5Hc.8jC0aO5WrAsYxbvD"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {
+    "core": {},
+    "battlezoo-ancestries-dads": {
+      "isDads": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749766104278,
+    "modifiedTime": 1749766104278,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "categories": [],
+  "_id": "OR8FNAscUkKTu5Hc",
+  "sort": 0,
+  "_key": "!journal!OR8FNAscUkKTu5Hc"
+}

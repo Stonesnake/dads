@@ -1,0 +1,60 @@
+{
+  "name": "Exceptional Dad",
+  "type": "feat",
+  "img": "icons/skills/social/thumbsup-approval-like.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You’re an exceptional dad, able to either double down on your dad type or branch out into others. Choose barbecue dad, pet dad, or sports dad. If you chose a different option than you did at level 7, you gain the level 7 feature for that type of dad. If you chose the same option as you did at level 7, you gain the new feature listed below with the matching name (for instance “Exceptional Pet Dad” for a Pet Dad).</p><p><strong>Exceptional Barbecue Dad.</strong> Your barbecues are especially exceptional. When you grill a morning barbecue, the GM secretly rolls a d10 on the Barbecue Table to determine the effect, rather than a d8.</p><p><strong>Exceptional Pet Dad.</strong> You gain the Beast Master’s Exceptional Training feature.</p><p><strong>Exceptional Sports Dad.</strong> When one of your team children within 60 feet rolls a natural 1 on an attack roll against a foe and fails the attack roll, you can take a Reaction to unleash an intimidating string of abuse at how unfair the situation was, that the gods or the universe (or the poor referee if the encounter is a gladiatorial match or otherwise has one) made a bad call, and other such excuses. Roll a Charisma (Intimidation) check against the foe. On a success, your haranguing throws the foe off, and the foe has Disadvantage on all attack rolls for [[/r 1d4 #rounds]]{1d4 rounds}. However, if you also roll a natural 1 on the check, your team child feels so awkward about all the fuss that they have Disadvantage on their next attack roll made within the next 4 rounds.</p>",
+      "chat": ""
+    },
+    "identifier": "exceptional-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 11
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765335035,
+    "modifiedTime": 1749765335059,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "w7uomv9THxnAIQal",
+  "sort": 225000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!w7uomv9THxnAIQal"
+}

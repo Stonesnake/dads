@@ -1,0 +1,62 @@
+{
+  "folder": null,
+  "name": "That's My Kid!",
+  "type": "action",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per 10 minutes</p><hr /><p><strong>Trigger</strong> One of your team children within 60 feet critically succeeds against a foe with a weapon attack roll, an unarmed attack roll, or an Athletics skill check with the attack trait</p><hr /><p><strong>Effect</strong> You call out in boasting encouragement at the stunning feat of athleticism your kid just showed off! Attempt a Diplomacy check against a standard DC of the triggering team child's level, with the following effects.</p><p>@UUID[Compendium.battlezoo-ancestries-dads.effects.Item.CjASxyUGPl0eznQ8]{Effect: That's My Kid!}</p><hr /><p><strong>Critical Success</strong> You and all team children within 60 feet gain a +1 status bonus to weapon attack rolls, unarmed attack rolls, Athletics checks with the attack trait, weapon damage rolls, unarmed damage rolls, and saving throws against fear. This bonus lasts for 3 rounds.</p><p><strong>Success</strong> As critical success, but only you and the triggering team child gain the bonus.</p><p><strong>Failure</strong> As critical success, but only the triggering team child gains the bonus, and only until the end of the current turn (if the triggering roll was an attack roll, the bonus applies in time to affect the damage roll).</p><p><strong>Critical Failure</strong> Your crass braggadocio embarrasses your team child, causing them to take a –1 status penalty to weapon attack rolls, unarmed attack rolls, Athletics checks with the attack trait, weapon damage rolls, unarmed damage rolls, and saving throws against fear until the end of their next turn.</p><hr /><p><strong>Special</strong> You can use this reaction for any skill check made during a sporting event, even if it isn't one of the usual types of triggering checks. If you do, you gain a +2 circumstance bonus to your Diplomacy check.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "auditory"
+      ]
+    },
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "category": "offensive",
+    "deathNote": false,
+    "frequency": {
+      "max": 1,
+      "per": "PT10M"
+    }
+  },
+  "_id": "E1XKoQS92G4eF3ZZ",
+  "img": "systems/pf2e/icons/actions/Reaction.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749746364641,
+    "modifiedTime": 1749746384850,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_key": "!items!E1XKoQS92G4eF3ZZ"
+}

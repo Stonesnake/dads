@@ -1,0 +1,148 @@
+{
+  "folder": null,
+  "name": "Dad Joke",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can tell dad jokes, distracting your foes. You gain the @UUID[Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf]{Bon Mot} skill feat when you take the Dad Joke feat if you didn't have Bon Mot already. If you already had the Bon Mot skill feat, you can choose another 1st‑level skill feat for which you qualify instead. When you make a Bon Mot, you can choose to tell a dad joke in real life. If you do, you gain a +1 circumstance bonus to the check, and if you're a master in Diplomacy and the dad joke was truly groanworthy or legitimately funny (at the GM's discretion) you gain a +2 circumstance bonus instead. Much like most dads, humoring you doesn't stop the dad jokes, and when your foes play along with you or get mad, it only encourages you. If your foe ends your Dad Joke Bon Mot effect early with a retort, the circumstance bonuses you gain against that foe increase to +3 for telling a dad joke in real life or +4 if you're a master in Diplomacy and told an exceptional or heinous dad joke.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": {
+          "filter": [
+            "item:level:1",
+            "item:category:skill"
+          ],
+          "itemType": "feat"
+        },
+        "flag": "feat",
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.SkillFeat",
+        "predicate": [
+          "feat:bon-mot"
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "feat:bon-mot"
+        ],
+        "uuid": "{item|flags.pf2e.rulesSelections.feat}"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf",
+        "predicate": [
+          {
+            "not": "feat:bon-mot"
+          }
+        ]
+      },
+      {
+        "key": "RollOption",
+        "option": "dad-joke",
+        "suboptions": [
+          {
+            "label": "DAD.SpecificRule.DadJoke.Groaner",
+            "value": "groaner"
+          },
+          {
+            "label": "DAD.SpecificRule.DadJoke.Encouraged",
+            "value": "encouraged"
+          }
+        ],
+        "toggleable": true
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "diplomacy",
+        "value": "ternary(gte(@actor.skills.diplomacy.rank,3),2,1)",
+        "type": "circumstance",
+        "predicate": [
+          "dad-joke"
+        ],
+        "slug": "dad-joke"
+      },
+      {
+        "key": "AdjustModifier",
+        "selector": "diplomacy",
+        "mode": "add",
+        "value": 2,
+        "slug": "dad-joke",
+        "predicate": [
+          "dad-joke:encouraged"
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "archetype",
+        "skill"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 4
+    },
+    "category": "skill",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Dad Dedication"
+        },
+        {
+          "value": "trained in Diplomacy"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.dDrSli87QWwlzlbN",
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749759943720,
+    "modifiedTime": 1749759943720,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "dDrSli87QWwlzlbN",
+  "_key": "!items!dDrSli87QWwlzlbN"
+}

@@ -1,0 +1,56 @@
+{
+  "folder": null,
+  "name": "Fatherly Advice",
+  "type": "action",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Trigger</strong> One of your team children within 60 feet who can see or hear you fails a check by 1 or critically fails a check by 1, and gaining a +1 circumstance bonus would change the result of the check</p><hr /><p><strong>Effect</strong> You call out a quick bit of advice, make an emphatic gesture, or use a more subtle technique to guide away from failure. The triggering team child gains a +1 circumstance bonus on their check, changing the result from a critical failure to a failure or from a failure to a success. However, your focus on your team child distracts you from your own challenges. You become @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "category": "offensive",
+    "deathNote": false
+  },
+  "_id": "qe0QVni94fm3FLjK",
+  "img": "systems/pf2e/icons/actions/Reaction.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749746364641,
+    "modifiedTime": 1749746364641,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_key": "!items!qe0QVni94fm3FLjK"
+}

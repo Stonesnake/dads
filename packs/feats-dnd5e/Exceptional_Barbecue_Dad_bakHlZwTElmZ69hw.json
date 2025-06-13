@@ -1,0 +1,60 @@
+{
+  "name": "Exceptional Barbecue Dad",
+  "type": "feat",
+  "img": "icons/consumables/meat/hock-leg-stylized.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your barbecues are especially exceptional. When you grill a morning barbecue, the GM secretly rolls a d10 on the Barbecue Table to determine the effect, rather than a d8.</p><p>@UUID[Compendium.battlezoo-ancestries-dads.rolltables.RollTable.DU0BRJRpK1Lhl8tu]{Barbecue (d10)}</p>",
+      "chat": ""
+    },
+    "identifier": "exceptional-barbecue-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 11
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765421132,
+    "modifiedTime": 1749765421163,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "bakHlZwTElmZ69hw",
+  "sort": 12500,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!bakHlZwTElmZ69hw"
+}

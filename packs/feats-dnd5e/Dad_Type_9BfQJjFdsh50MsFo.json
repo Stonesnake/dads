@@ -1,0 +1,60 @@
+{
+  "name": "Dad Type",
+  "type": "feat",
+  "img": "icons/environment/people/group.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Decide whether you are a barbecue dad, a pet dad, or a sports dad. You gain one of the following features of your choice, based on your choice.</p><p><strong>Barbecue Dad.</strong> It might not make a lot of sense to the rest of your team, but you like to start each adventuring day with a little barbecue to grill food granting powerful benefits. And you often barbecue at night too even though it doesn’t strengthen your team in the same way… you just really love to barbecue. You are proficient in cooking utensils, and you gain Expertise in cooking utensils when used to barbecue. Each morning after your long rest, you can feed your allies a barbecue. The GM secretly rolls 1d8 on the Barbecue Table to determine the effect as you begin to digest the meal. The effect applies at the beginning of your first combat encounter or at another suitably dramatic time.</p><p><strong>Pet Dad.</strong> You’re convinced that your pet animal can understand your parental bond in a similar way to a sapient creature. While your acquaintances might be skeptical, you’ve proven it beyond a shadow of a doubt. You can choose nonsapient creatures as team children. You gain the Beast Master’s Primal Companion feature, with the following adjustments: You add the beast as a team child without counting against your usual limit of five team children. The beast is a real creature, rather than a magical one. It doesn’t vanish if you die, you can’t return it to life, and you can’t switch it out for a new one every Long Rest. Instead, you treat it as a member of your own family and mourn its death like you would a child. When you and the GM agree you’re ready to move on, you can choose a new beast. If you eventually decide you’ll never move on, you can instead change to one of the other dad types after your mourning period.</p><p><strong>Sports Dad.</strong> Sports matter to you more than they probably should, more than fundamentals most people find more important in life. They just don’t understand. Fortunately, at least some of your children have followed in your footsteps… or at least learned how to humor you. You become proficient in Athletics or gain Expertise in Athletics if you were already proficient, and you become proficient in Intimidation. When one of your team children critically hits a foe, you can take a Reaction to call out in boasting encouragement at the stunning feat of athleticism your kid just showed off! You and all team children within 60 feet gain Advantage on their next attack roll on their next turn.</p>",
+      "chat": ""
+    },
+    "identifier": "dad-type",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 7
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763169115,
+    "modifiedTime": 1749765290292,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "9BfQJjFdsh50MsFo",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!9BfQJjFdsh50MsFo"
+}

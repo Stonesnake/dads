@@ -1,0 +1,124 @@
+{
+  "name": "Dad Advice",
+  "type": "feat",
+  "img": "icons/skills/social/diplomacy-writing-letter.webp",
+  "system": {
+    "activities": {
+      "r3lJlTOwkTFd8Rcz": {
+        "type": "utility",
+        "_id": "r3lJlTOwkTFd8Rcz",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "override": false,
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "name": "Dad Advice"
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>When one of your team children within 60 feet who can see or hear you fails a d20 Test by 2 or less without rolling a natural 1, you can take a Reaction to call out a quick bit of advice, make an emphatic gesture, or use a more subtle technique to guide away from failure. If you do, the team child gains a +2 bonus on their check, changing the result to a success. However, your focus on your team child distracts you from your own challenges. On your next turn, your speed is halved, and you can use either an action or a bonus action, not both.</p>",
+      "chat": ""
+    },
+    "identifier": "dad-advice",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 3
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763165253,
+    "modifiedTime": 1749763190708,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "ZZbvI2EzvcsLKWHB",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!ZZbvI2EzvcsLKWHB"
+}

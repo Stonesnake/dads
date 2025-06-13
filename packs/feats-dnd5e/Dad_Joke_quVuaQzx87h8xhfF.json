@@ -1,0 +1,180 @@
+{
+  "name": "Dad Joke",
+  "type": "feat",
+  "img": "icons/environment/people/commoner.webp",
+  "system": {
+    "activities": {
+      "oXKu955h8dQOgZSb": {
+        "type": "check",
+        "name": "Dad Joke",
+        "_id": "oXKu955h8dQOgZSb",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "ft",
+          "override": false,
+          "special": "",
+          "value": "30"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "creature",
+            "count": "1",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "check": {
+          "associated": [
+            "prf"
+          ],
+          "dc": {
+            "calculation": "",
+            "formula": ""
+          },
+          "ability": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can tell dad jokes, distracting your foe. You are proficient in Performance. As a Bonus Action, attempt a Charisma (Performance) check against the Passive Perception of a foe within 30 feet. As part of using this feature, you can choose to tell a dad joke in real life. If you do, you gain a +1 bonus to the check, or +1d4 if the dad joke was truly groanworthy or legitimately funny (GM’s discretion). On a success, the foe has Disadvantage on Wisdom checks and Wisdom saving throws for 1 minute; they can end the effect early by responding to your dad joke, using their Bonus Action or performing an appropriate action. The GM determines what kinds of responses apply, and if the response requires a d20 Test, that d20 Test doesn’t need to be successful to end the effect early.</p><p>Unfortunately, much like most dads, humoring you doesn’t stop the dad jokes, and if your foes play along with you or get mad, it only encourages you. If your foe ends your Dad Joke early with a response, you gain Advantage on all your checks to make Dad Jokes against them for 1 minute.</p>",
+      "chat": ""
+    },
+    "identifier": "dad-joke",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 3
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Dad Joke",
+      "img": "icons/environment/people/commoner.webp",
+      "origin": "Item.S0YIlxNv4ROvXvSw",
+      "_id": "8lICmUyHaaBTKCGu",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.skills.prf.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "dnd5e",
+        "systemVersion": "5.0.3",
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!quVuaQzx87h8xhfF.8lICmUyHaaBTKCGu"
+    }
+  ],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763166561,
+    "modifiedTime": 1749763191514,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "quVuaQzx87h8xhfF",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!quVuaQzx87h8xhfF"
+}

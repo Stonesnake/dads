@@ -1,0 +1,143 @@
+{
+  "name": "Bogey",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p><em>Bogeys are incarnations of terror, sustained by the fear of those around them. They are the things that go bump in the night. While some bogeys follow the traditional path of becoming the monsters from horror stories, others prefer to collaborate with others toward broader goals, directing their frights toward their enemies.</em></p><p>@UUID[Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-journals.JournalEntry.bYVe6iLqgBlJZ09t.JournalEntryPage.RPx4x0aFdxTRZQDk]{Bogey Ancestry}</p>"
+    },
+    "rules": [
+      {
+        "choices": [
+          {
+            "label": "PF2E.UI.RuleElements.ChoiceSet.YesLabel",
+            "value": "persistent-terror"
+          },
+          {
+            "label": "PF2E.UI.RuleElements.ChoiceSet.NoLabel",
+            "value": "low-light-vision"
+          }
+        ],
+        "key": "ChoiceSet",
+        "prompt": "YOT.Bogey.LowLightVisionPrompt",
+        "rollOption": "bogey-choice"
+      },
+      {
+        "key": "Sense",
+        "selector": "low-light-vision",
+        "predicate": [
+          "bogey-choice:low-light-vision"
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-feats.Item.TborIpapOooeyF0F",
+        "predicate": [
+          "bogey-choice:persistent-terror"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "bogey",
+        "fey"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Year of Titans",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "hp": 8,
+    "size": "med",
+    "reach": 5,
+    "speed": 25,
+    "boosts": {
+      "0": {
+        "value": [
+          "dex"
+        ]
+      },
+      "1": {
+        "value": [
+          "cha"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "con"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common",
+        "fey"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [
+        "aklo",
+        "chthonian",
+        "daemonic",
+        "diabolic",
+        "sakvroth",
+        "shadowtongue"
+      ],
+      "custom": ""
+    },
+    "items": {
+      "Ki83O": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.L65CXg7MKI1qutIB",
+        "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
+        "name": "Born to Scare",
+        "level": 1
+      }
+    },
+    "vision": "normal"
+  },
+  "img": "modules/battlezoo-ancestries-year-of-titans-pf2e/assets/icons/bogey.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.344",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1744657330068,
+    "modifiedTime": 1744657562811,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL",
+    "exportSource": null
+  },
+  "_id": "eRGpJUgqqcnVTnXd",
+  "sort": 0,
+  "_key": "!items!eRGpJUgqqcnVTnXd"
+}

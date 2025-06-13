@@ -1,0 +1,111 @@
+{
+  "folder": null,
+  "name": "Effect: That's My Kid!",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Granted by @UUID[Compendium.battlezoo-ancestries-dads.actions.Item.E1XKoQS92G4eF3ZZ]{That's My Kid!}</p><p>You gain a +1 status bonus to weapon attack rolls, unarmed attack rolls, Athletics checks with the attack trait, weapon damage rolls, unarmed damage rolls, and saving throws against fear. On a critical failure you take a –1 status penalty to these things instead.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "key": "ChoiceSet",
+        "choices": [
+          {
+            "label": "PF2E.Check.Result.Degree.Check.success",
+            "value": 1
+          },
+          {
+            "label": "PF2E.Check.Result.Degree.Check.criticalFailure",
+            "value": -1
+          }
+        ],
+        "flag": "modifier"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": [
+          "strike-attack-roll",
+          "strike-damage"
+        ],
+        "value": "@item.flags.pf2e.rulesSelections.modifier",
+        "type": "status"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "athletics",
+        "value": "@item.flags.pf2e.rulesSelections.modifier",
+        "predicate": [
+          "item:trait:attack"
+        ],
+        "type": "status"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "saving-throw",
+        "value": "@item.flags.pf2e.rulesSelections.modifier",
+        "type": "status",
+        "predicate": [
+          "item:trait:fear"
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 3,
+      "unit": "rounds",
+      "expiry": "turn-start",
+      "sustained": false
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "unidentified": false,
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "badge": null,
+    "fromSpell": false,
+    "context": null
+  },
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749746370163,
+    "modifiedTime": 1749746394215,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "CjASxyUGPl0eznQ8",
+  "sort": 0,
+  "_key": "!items!CjASxyUGPl0eznQ8"
+}
