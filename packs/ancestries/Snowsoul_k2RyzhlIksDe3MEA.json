@@ -1,0 +1,133 @@
+{
+  "name": "Snowsoul",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p><em>Fey with humanoid bodies formed from ice and snow, snowsouls have a mysterious past and a deep connection to elemental ice.</em></p>"
+    },
+    "rules": [],
+    "slug": "snowsoul",
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "fey",
+        "snowsoul"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Year of Titans",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "hp": 8,
+    "size": "med",
+    "reach": 5,
+    "speed": 25,
+    "boosts": {
+      "0": {
+        "value": [
+          "dex"
+        ]
+      },
+      "1": {
+        "value": [
+          "wis"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "cha"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common",
+        "cryan",
+        "fey"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [
+        "aklo",
+        "draconic",
+        "elven",
+        "empyrean",
+        "gnomish",
+        "jotun",
+        "thalassic"
+      ],
+      "custom": ""
+    },
+    "items": {
+      "yfGwO": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.AxfSuW94jwZU12ap",
+        "img": "icons/magic/water/heart-ice-freeze.webp",
+        "name": "Cold Comfort",
+        "level": 1
+      },
+      "JGy5B": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.4redaNf6AH19e0yR",
+        "img": "icons/magic/water/snowflake-ice-blue-white.webp",
+        "name": "Frozen Soul",
+        "level": 1
+      },
+      "oY7qY": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.HkN8V9d80a9KqOEd",
+        "img": "icons/magic/water/tendrils-ice-thorns.webp",
+        "name": "Ice in the Veins",
+        "level": 1
+      },
+      "OLwAF": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.YaDa45rLHNG1MNXM",
+        "img": "icons/magic/water/snowflake-ice-blue.webp",
+        "name": "Raiment of Snow",
+        "level": 1
+      }
+    },
+    "vision": "low-light-vision"
+  },
+  "img": "modules/battlezoo-ancestries-year-of-titans-pf2e/assets/icons/snowsoul.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.344",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736956982060,
+    "modifiedTime": 1739829949691,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL",
+    "exportSource": null
+  },
+  "_id": "k2RyzhlIksDe3MEA",
+  "sort": 300000,
+  "_key": "!items!k2RyzhlIksDe3MEA"
+}

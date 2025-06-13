@@ -1,0 +1,60 @@
+{
+  "name": "Quintessential Dad",
+  "type": "feat",
+  "img": "icons/environment/settlement/house-farmland-small.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You’re a quintessential dad, either embodying your dad type as a paragon or branching out further. Choose barbecue dad, pet dad, or sports dad. If you chose an option you never selected before, you gain the level 7 feature for that type of dad, if you chose an option you’ve selected once before, you gain the exceptional feature for that type of dad from level 11, and if you chose the same option you selected both at level 7 and at level 11, you gain the new feature listed below with the matching name (for instance “Quintessential Pet Dad” for a Pet Dad).</p><p><strong>Quintessential Barbecue Dad.</strong> Your barbecues are the stuff of legends, and even the gods might be tempted to crash one to enjoy your cuisine. When you grill a morning barbecue, the GM secretly rolls two d12 and takes the higher result when rolling on the Barbecue Table to determine the effect.</p><p><strong>Quintessential Pet Dad.</strong> You gain the Beast Master’s Bestial Fury feature.</p><p><strong>Quintessential Sports Dad.</strong> When it comes down to it, the only thing more important than sports is making sure your team children are safe. When an enemy would attack one of your team children within 60 feet, you can take a Reaction to give that enemy Disadvantage on their attack roll. You also gain an additional Reaction each round, which you can only use for one of your three Reactions from the Sports Dad subclass.</p>",
+      "chat": ""
+    },
+    "identifier": "quintessential-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 15
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765720921,
+    "modifiedTime": 1749765720953,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "nou8i6QJFvjdBcSm",
+  "sort": 75000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!nou8i6QJFvjdBcSm"
+}

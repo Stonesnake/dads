@@ -1,0 +1,102 @@
+{
+  "folder": null,
+  "name": "Sports Dad",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Sports matter to you more than they probably should, more than fundamentals most people find more important in life. They just don't understand. Fortunately, at least some of your children have followed in your footsteps… or at least learned how to humor you. You gain the @UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional Lore} skill feat for Sports Lore. If you are trained in Diplomacy, you gain the @UUID[Compendium.battlezoo-ancestries-dads.actions.Item.E1XKoQS92G4eF3ZZ]{That's My Kid!} reaction, and if you're trained in Intimidation you gain the @UUID[Compendium.battlezoo-ancestries-dads.actions.Item.IiVHyU0NMeKNW7ta]{You've Gotta Be Kidding Me!} reaction. If you're trained in both, you gain both reactions but they share the same frequency (so if you use one reaction, you can't use either of them for 10 minutes).</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-dads.actions.Item.E1XKoQS92G4eF3ZZ",
+        "predicate": [
+          {
+            "not": "skill:diplomacy:rank:0"
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-dads.actions.Item.IiVHyU0NMeKNW7ta",
+        "predicate": [
+          {
+            "not": "skill:intimidation:rank:0"
+          }
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "archetype"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 6
+    },
+    "category": "class",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Dad Dedication"
+        },
+        {
+          "value": "trained in Diplomacy or Intimidation"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "WmODGjEKFXFllZsu",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749759943720,
+    "modifiedTime": 1749759943720,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_key": "!items!WmODGjEKFXFllZsu"
+}

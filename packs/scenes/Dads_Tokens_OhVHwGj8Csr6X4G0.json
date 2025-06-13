@@ -1,0 +1,1154 @@
+{
+  "name": "Dads Tokens",
+  "navigation": false,
+  "navName": "",
+  "background": {
+    "src": null,
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "anchorX": 0,
+    "anchorY": 0,
+    "fit": "fill",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/battlezoo/assets/scenes/pDrMdVVpghbVJ458-thumb.webp",
+  "width": 3000,
+  "height": 3500,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#e6e6e6",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0,
+    "distance": 5,
+    "units": "ft",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": true,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/logos/dads-logo.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1250,
+      "y": 900,
+      "width": 2000,
+      "height": 650,
+      "_id": "FAylXAUooHcqS47g",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.FAylXAUooHcqS47g"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/full-art/dads-art-1.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1250,
+      "y": 1600,
+      "width": 354,
+      "height": 500,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "_id": "d04i1jCDe6huKEqT",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.d04i1jCDe6huKEqT"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-1.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2250,
+      "y": 1569,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "_id": "P16azm0lrOXWuOdC",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.P16azm0lrOXWuOdC"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/full-art/dads-art-2.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1800,
+      "y": 1600,
+      "width": 310,
+      "height": 500,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "45R9zRSQUVBhoNho",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.45R9zRSQUVBhoNho"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-2.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2755,
+      "y": 1558,
+      "width": 540,
+      "height": 540,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "AGNhSC96fITMcRnc",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.AGNhSC96fITMcRnc"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/pog-tokens/dads-pog-2.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1800,
+      "y": 2150,
+      "width": 350,
+      "height": 350,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "BHibIs9YOyrFGbXp",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.BHibIs9YOyrFGbXp"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-3.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2238,
+      "y": 2050,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "PLK1sd8uWBmhcJQ3",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.PLK1sd8uWBmhcJQ3"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-4.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2750,
+      "y": 2050,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "gqj3RYqlZKfWJBfu",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.gqj3RYqlZKfWJBfu"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/pog-tokens/dads-pog-1.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1250,
+      "y": 2150,
+      "width": 350,
+      "height": 350,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "FpwYAiTdBBtGSCy5",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.FpwYAiTdBBtGSCy5"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/tokens/dads-token-6.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1750,
+      "y": 3350,
+      "width": 450,
+      "height": 450,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "1nulUoGgLGltUdX6",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.1nulUoGgLGltUdX6"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/tokens/dads-token-4.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1200,
+      "y": 3350,
+      "width": 450,
+      "height": 450,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "9Dh25GFOGbpQMkCt",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.9Dh25GFOGbpQMkCt"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-6.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2750,
+      "y": 2900,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Fuq064T4EV9vVjxI",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.Fuq064T4EV9vVjxI"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-5.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2250,
+      "y": 2900,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "RLn3Wp8ganDfz0Er",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.RLn3Wp8ganDfz0Er"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/pog-tokens/dads-pog-2.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1800,
+      "y": 3000,
+      "width": 350,
+      "height": 350,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "fAZLchXR9V2j5iRh",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.fAZLchXR9V2j5iRh"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/tokens/dads-token-2.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1200,
+      "y": 2950,
+      "width": 450,
+      "height": 450,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "dBbpHyNL8JzMUMor",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.dBbpHyNL8JzMUMor"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-9.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2750,
+      "y": 3300,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "QFKHa3ky2qIfCMXx",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.QFKHa3ky2qIfCMXx"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-8.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2250,
+      "y": 3300,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "xj3xCoYFU4trJTUJ",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.xj3xCoYFU4trJTUJ"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-11.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2742,
+      "y": 3674,
+      "width": 600,
+      "height": 600,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "7oUMWfuqO7JsKgbM",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.7oUMWfuqO7JsKgbM"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-10.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2208,
+      "y": 3679,
+      "width": 600,
+      "height": 600,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "FdXrOkZwqDXCeJ1U",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.FdXrOkZwqDXCeJ1U"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/tokens/dads-token-3.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1200,
+      "y": 3750,
+      "width": 450,
+      "height": 450,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "bcrhA0FK8jwHrk5X",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.bcrhA0FK8jwHrk5X"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/tokens/dads-token-5.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1750,
+      "y": 3750,
+      "width": 450,
+      "height": 450,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "zdwk9E6wJiNR2vIY",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.zdwk9E6wJiNR2vIY"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/pog-tokens/dads-pog-5.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1800,
+      "y": 2550,
+      "width": 350,
+      "height": 350,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "fBDpdQH6lKio4VaU",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.fBDpdQH6lKio4VaU"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/pog-tokens/dads-pog-4.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1250,
+      "y": 2550,
+      "width": 350,
+      "height": 350,
+      "elevation": 0,
+      "sort": 101,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "17PUe3wVDL9BlvcL",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.17PUe3wVDL9BlvcL"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-12.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2750,
+      "y": 2464,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "MDfXDwZljP3H2M8Y",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.MDfXDwZljP3H2M8Y"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-dads/assets/ancestries/dads/animated/dads-animated-7.webm",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 2253,
+      "y": 2464,
+      "width": 550,
+      "height": 550,
+      "elevation": 0,
+      "sort": 102,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Z2okdQ9pD022xfLZ",
+      "_key": "!scenes.tiles!OhVHwGj8Csr6X4G0.Z2okdQ9pD022xfLZ"
+    }
+  ],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {
+    "core": {},
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null,
+      "environmentTypes": [],
+      "syncDarkness": "default"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749785978695,
+    "modifiedTime": 1749785978695,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "folder": null,
+  "regions": [],
+  "fog": {
+    "exploration": true,
+    "reset": 1670901911652,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "globalLight": {
+      "enabled": false,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "navOrder": 0,
+  "_id": "OhVHwGj8Csr6X4G0",
+  "active": false,
+  "sort": 0,
+  "_key": "!scenes!OhVHwGj8Csr6X4G0"
+}

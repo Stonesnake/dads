@@ -1,0 +1,207 @@
+{
+    "id": "battlezoo-ancestries-dads",
+    "title": "Battlezoo Ancestries: Dads by Roll For Combat",
+    "description": "",
+    "url": "http://www.battlezoo.com",
+    "version": "1.0",
+    "protected": false,
+    "manifest": "",
+    "authors": [
+        {
+            "name": "Mark Seifter",
+            "flags": {}
+        }
+    ],
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "5",
+                    "verified": "5"
+                }
+            },
+            {
+                "id": "pf2e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "7.1"
+                }
+            }
+        ]
+    },
+    "packs": [
+        {
+            "label": "Actions",
+            "name": "actions",
+            "path": "packs/actions",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-00.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Item",
+            "flags": {}
+        },
+        {
+            "label": "Effects",
+            "name": "effects",
+            "path": "packs/effects",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-01.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Item",
+            "flags": {}
+        },
+        {
+            "label": "Feats",
+            "name": "feats",
+            "path": "packs/feats",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-02.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Item",
+            "flags": {}
+        },
+        {
+            "label": "Journals",
+            "name": "journals",
+            "path": "packs/journals",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-03.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "JournalEntry",
+            "flags": {}
+        },
+        {
+            "label": "Token Preview",
+            "name": "scenes",
+            "path": "packs/scenes",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-04.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "LIMITED",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Scene",
+            "flags": {}
+        },
+        {
+            "label": "Features",
+            "name": "features-dnd5e",
+            "path": "packs/feats-dnd5e",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-05.webp",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "LIMITED",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Item",
+            "flags": {}
+        },
+        {
+            "label": "Journals",
+            "name": "journals-dnd5e",
+            "path": "packs/journals-dnd5e",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-06.webp",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "JournalEntry",
+            "flags": {}
+        },
+        {
+          "label": "Roll Tables",
+          "name": "rolltables",
+          "path": "packs/rolltables",
+          "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-07.webp",
+          "system": "dnd5e",
+          "ownership": {
+            "PLAYER": "LIMITED",
+            "ASSISTANT": "OWNER"
+          },
+          "type": "RollTable",
+          "flags": {}
+        },
+        {
+            "label": "Token Preview",
+            "name": "scenes-dnd5e",
+            "path": "packs/scenes-dnd5e",
+            "banner": "modules/battlezoo-ancestries-dads/assets/tiles/tile-08.webp",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "type": "Scene",
+            "flags": {}
+        }
+    ],
+    "media": [
+        {
+            "type": "setup",
+            "caption": "Battlezoo Ancestries: Dads",
+            "thumbnail": "modules/battlezoo-ancestries-dads/assets/preview.webp",
+            "loop": false,
+            "flags": {}
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Roll For Combat",
+            "sorting": "m",
+            "folders": [
+                {
+                    "name": "Battlezoo Ancestries: Dads",
+                    "sorting": "m",
+                    "packs": [
+                        "actions",
+                        "feats",
+                        "effects",
+                        "scenes",
+                        "journals",
+                        "features-dnd5e",
+                        "journals-dnd5e",
+                        "rolltables",
+                        "scenes-dnd5e"
+                    ],
+                    "color": null,
+                    "folders": []
+                }
+            ],
+            "color": null,
+            "packs": []
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "en.json",
+            "flags": {}
+        }
+    ],
+    "esmodules": [
+        "scripts/register-journal-style.mjs"
+    ],
+    "styles": [
+        "styles/dads.css"
+    ]
+}

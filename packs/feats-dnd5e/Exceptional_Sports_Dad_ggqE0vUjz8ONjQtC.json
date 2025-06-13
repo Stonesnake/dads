@@ -1,0 +1,131 @@
+{
+  "name": "Exceptional Sports Dad",
+  "type": "feat",
+  "img": "icons/environment/wilderness/arch-stone.webp",
+  "system": {
+    "activities": {
+      "lvtosimeBzIQPol5": {
+        "type": "check",
+        "name": "Exceptional Sports Dad",
+        "_id": "lvtosimeBzIQPol5",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "ft",
+          "override": false,
+          "value": "60",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "count": "1",
+            "type": "creature",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "check": {
+          "associated": [
+            "itm"
+          ],
+          "dc": {
+            "calculation": "",
+            "formula": ""
+          },
+          "ability": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>When one of your team children within 60 feet rolls a natural 1 on an attack roll against a foe and fails the attack roll, you can take a Reaction to unleash an intimidating string of abuse at how unfair the situation was, that the gods or the universe (or the poor referee if the encounter is a gladiatorial match or otherwise has one) made a bad call, and other such excuses. Roll a Charisma (Intimidation) check against the foe. On a success, your haranguing throws the foe off, and the foe has Disadvantage on all attack rolls for [[/r 1d4 #rounds]]{1d4 rounds}. However, if you also roll a natural 1 on the check, your team child feels so awkward about all the fuss that they have Disadvantage on their next attack roll made within the next 4 rounds.</p>",
+      "chat": ""
+    },
+    "identifier": "exceptional-sports-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 11
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765595323,
+    "modifiedTime": 1749765595357,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "ggqE0vUjz8ONjQtC",
+  "sort": 18750,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!ggqE0vUjz8ONjQtC"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Barbecue Dad",
+  "type": "feat",
+  "img": "icons/consumables/food/plate-steak-grilled-brown-green.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>It might not make a lot of sense to the rest of your team, but you like to start each adventuring day with a little barbecue to grill food granting powerful benefits. And you often barbecue at night too even though it doesn’t strengthen your team in the same way… you just really love to barbecue. You are proficient in cooking utensils, and you gain Expertise in cooking utensils when used to barbecue. Each morning after your long rest, you can feed your allies a barbecue. The GM secretly rolls 1d8 on the Barbecue Table to determine the effect as you begin to digest the meal. The effect applies at the beginning of your first combat encounter or at another suitably dramatic time.</p><p>@UUID[Compendium.battlezoo-ancestries-dads.rolltables.RollTable.DdqkhJZNGcd27MKn]{Barbecue (d8)}</p>",
+      "chat": ""
+    },
+    "identifier": "barbecue-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 7
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763893842,
+    "modifiedTime": 1749765284262,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "MIg6qOdfkPyypbm9",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!MIg6qOdfkPyypbm9"
+}

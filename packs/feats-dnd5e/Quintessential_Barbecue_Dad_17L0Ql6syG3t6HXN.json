@@ -1,0 +1,60 @@
+{
+  "name": "Quintessential Barbecue Dad",
+  "type": "feat",
+  "img": "icons/consumables/meat/salmon-fish-fillet-pink-gray.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your barbecues are the stuff of legends, and even the gods might be tempted to crash one to enjoy your cuisine. When you grill a morning barbecue, the GM secretly rolls two d12 and takes the higher result when rolling on the Barbecue Table to determine the effect.</p><p>@UUID[Compendium.battlezoo-ancestries-dads.rolltables.RollTable.sPOryBaZvxJGV3yq]{Barbecue (d12)}</p>",
+      "chat": ""
+    },
+    "identifier": "quintessential-barbecue-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 15
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765815954,
+    "modifiedTime": 1749765815985,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "17L0Ql6syG3t6HXN",
+  "sort": 15625,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!17L0Ql6syG3t6HXN"
+}

@@ -1,0 +1,272 @@
+{
+  "name": "Dad",
+  "type": "subclass",
+  "img": "icons/skills/social/wave-halt-stop.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Dad subclass is available to those who wish to take on the role of “dad.”</p><h2>Level 3: Team Dad</h2><p>Whether they’re officially a part of your family or not, you act as a team dad for the other members of your adventuring party, and that means offering your advice and assistance. While you’re not necessarily up front about it and might try to hide some of your effort behind the scenes, you’d do anything to see your literal or figurative children succeed. Choose up to five sapient creatures as your team children. They might or might not actually be your children, but either way, you’ve taken a fatherly role in your group toward them. You gain the following benefits.</p><p><strong>Dad Advice.</strong> When one of your team children within 60 feet who can see or hear you fails a d20 Test by 2 or less without rolling a natural 1, you can take a Reaction to call out a quick bit of advice, make an emphatic gesture, or use a more subtle technique to guide away from failure. If you do, the team child gains a +2 bonus on their check, changing the result to a success. However, your focus on your team child distracts you from your own challenges. On your next turn, your speed is halved, and you can use either an action or a bonus action, not both.</p><p><strong>Dad Obsession.</strong> You have a particular hobby or obsession, and you won’t stop talking about it to any of your team children. You are proficient in a set of tools other than thieves’ tools associated with your obsession, for instance, gardening tools for a gardening obsession. Whether they care about your obsession or not, your team children can’t help but learn a bit about it through osmosis. All of your team children can add half their proficiency bonus, rounded down with that tool if they wouldn’t already be including their proficiency bonus.</p><h2>Level 3: Dad Joke</h2><p>You can tell dad jokes, distracting your foe. You are proficient in Performance. As a Bonus Action, attempt a [[/skill performance]] check against the Passive Perception of a foe within 30 feet. As part of using this feature, you can choose to tell a dad joke in real life. If you do, you gain a +1 bonus to the check, or +1d4 if the dad joke was truly groanworthy or legitimately funny (GM’s discretion). On a success, the foe has Disadvantage on Wisdom checks and Wisdom saving throws for 1 minute; they can end the effect early by responding to your dad joke, using their Bonus Action or performing an appropriate action. The GM determines what kinds of responses apply, and if the response requires a d20 Test, that d20 Test doesn’t need to be successful to end the effect early. Unfortunately, much like most dads, humoring you doesn’t stop the dad jokes, and if your foes play along with you or get mad, it only encourages you. If your foe ends your Dad Joke early with a response, you gain Advantage on all your checks to make Dad Jokes against them for 1 minute.</p><h2>Level 7: Dad Type</h2><p>Decide whether you are a barbecue dad, a pet dad, or a sports dad. You gain one of the following features of your choice, based on your choice.</p><p><strong>Barbecue Dad.</strong> It might not make a lot of sense to the rest of your team, but you like to start each adventuring day with a little barbecue to grill food granting powerful benefits. And you often barbecue at night too even though it doesn’t strengthen your team in the same way… you just really love to barbecue. You are proficient in cooking utensils, and you gain Expertise in cooking utensils when used to barbecue. Each morning after your long rest, you can feed your allies a barbecue. The GM secretly rolls 1d8 on the Barbecue Table to determine the effect as you begin to digest the meal. The effect applies at the beginning of your first combat encounter or at another suitably dramatic time.</p><p><strong>Pet Dad.</strong> You’re convinced that your pet animal can understand your parental bond in a similar way to a sapient creature. While your acquaintances might be skeptical, you’ve proven it beyond a shadow of a doubt. You can choose nonsapient creatures as team children. You gain the Beast Master’s Primal Companion feature, with the following adjustments: You add the beast as a team child without counting against your usual limit of five team children. The beast is a real creature, rather than a magical one. It doesn’t vanish if you die, you can’t return it to life, and you can’t switch it out for a new one every Long Rest. Instead, you treat it as a member of your own family and mourn its death like you would a child. When you and the GM agree you’re ready to move on, you can choose a new beast. If you eventually decide you’ll never move on, you can instead change to one of the other dad types after your mourning period.</p><p><strong>Sports Dad.</strong> Sports matter to you more than they probably should, more than fundamentals most people find more important in life. They just don’t understand. Fortunately, at least some of your children have followed in your footsteps… or at least learned how to humor you. You become proficient in Athletics or gain Expertise in Athletics if you were already proficient, and you become proficient in Intimidation. When one of your team children critically hits a foe, you can take a Reaction to call out in boasting encouragement at the stunning feat of athleticism your kid just showed off! You and all team children within 60 feet gain Advantage on their next attack roll on their next turn.</p><h2>Level 11: Exceptional Dad</h2><p>You’re an exceptional dad, able to either double down on your dad type or branch out into others. Choose barbecue dad, pet dad, or sports dad. If you chose a different option than you did at level 7, you gain the level 7 feature for that type of dad. If you chose the same option as you did at level 7, you gain the new feature listed below with the matching name (for instance “Exceptional Pet Dad” for a Pet Dad).</p><p><strong>Exceptional Barbecue Dad.</strong> Your barbecues are especially exceptional. When you grill a morning barbecue, the GM secretly rolls a d10 on the Barbecue Table to determine the effect, rather than a d8.</p><p><strong>Exceptional Pet Dad.</strong> You gain the Beast Master’s Exceptional Training feature.</p><p><strong>Exceptional Sports Dad.</strong> When one of your team children within 60 feet rolls a natural 1 on an attack roll against a foe and fails the attack roll, you can take a Reaction to unleash an intimidating string of abuse at how unfair the situation was, that the gods or the universe (or the poor referee if the encounter is a gladiatorial match or otherwise has one) made a bad call, and other such excuses. Roll a Charisma (Intimidation) check against the foe. On a success, your haranguing throws the foe off, and the foe has Disadvantage on all attack rolls for [[/r 1d4 #rounds]]{1d4 rounds}. However, if you also roll a natural 1 on the check, your team child feels so awkward about all the fuss that they have Disadvantage on their next attack roll made within the next 4 rounds.</p><h2>Level 15: Quintessential Dad</h2><p>You’re a quintessential dad, either embodying your dad type as a paragon or branching out further. Choose barbecue dad, pet dad, or sports dad. If you chose an option you never selected before, you gain the level 7 feature for that type of dad, if you chose an option you’ve selected once before, you gain the exceptional feature for that type of dad from level 11, and if you chose the same option you selected both at level 7 and at level 11, you gain the new feature listed below with the matching name (for instance “Quintessential Pet Dad” for a Pet Dad).</p><p><strong>Quintessential Barbecue Dad.</strong> Your barbecues are the stuff of legends, and even the gods might be tempted to crash one to enjoy your cuisine. When you grill a morning barbecue, the GM secretly rolls two d12 and takes the higher result when rolling on the Barbecue Table to determine the effect.</p><p><strong>Quintessential Pet Dad.</strong> You gain the Beast Master’s Bestial Fury feature.</p><p><strong>Quintessential Sports Dad.</strong> When it comes down to it, the only thing more important than sports is making sure your team children are safe. When an enemy would attack one of your team children within 60 feet, you can take a Reaction to give that enemy Disadvantage on their attack roll. You also gain an additional Reaction each round, which you can only use for one of your three Reactions from the Sports Dad subclass.</p>",
+      "chat": ""
+    },
+    "identifier": "dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": "OGL 1.0a"
+    },
+    "advancement": [
+      {
+        "type": "ItemGrant",
+        "_id": "ydSQNoezlhbTajq2",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.s6bYSvabafCZoD0H",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.quVuaQzx87h8xhfF",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.ZZbvI2EzvcsLKWHB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.NK1MEpbxSvbn2KAH",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Level 3",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "_id": "gakKqVkKw1WNVZKl",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.9BfQJjFdsh50MsFo",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "type": "ItemChoice",
+        "_id": "dYH37UGmLvTSTsSB",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "7": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.MIg6qOdfkPyypbm9"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.GIqUdUbJ7yWzuFvK"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.stPIQf1DF0Q27BkW"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Dad Type",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "_id": "YdbuEKz8WKNWrZQZ",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.w7uomv9THxnAIQal",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "type": "ItemChoice",
+        "_id": "cloynhxbbrX3N4UD",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "11": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.bakHlZwTElmZ69hw"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.e90HsJHWbCzM797s"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.ggqE0vUjz8ONjQtC"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.MIg6qOdfkPyypbm9"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.GIqUdUbJ7yWzuFvK"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.stPIQf1DF0Q27BkW"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Dad Type",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "_id": "Hh88rHChuVLW6vUr",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.nou8i6QJFvjdBcSm",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "_id": "UOvlbhHhu42KyIy9",
+        "configuration": {
+          "items": [],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1
+      },
+      {
+        "type": "ItemChoice",
+        "_id": "wZVlmtV9vYmlpf6c",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "15": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.17L0Ql6syG3t6HXN"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.9MubZgoV0CBNh7JK"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.lihqITnbIB3trJyP"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.bakHlZwTElmZ69hw"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.e90HsJHWbCzM797s"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.ggqE0vUjz8ONjQtC"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.MIg6qOdfkPyypbm9"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.GIqUdUbJ7yWzuFvK"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-dads.features-dnd5e.Item.stPIQf1DF0Q27BkW"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Dad Type",
+        "hint": ""
+      }
+    ],
+    "classIdentifier": "",
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    }
+  },
+  "effects": [],
+  "folder": "7y6gCSUcuaxgCWnW",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749762886932,
+    "modifiedTime": 1749766062397,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "RI0KZqdSPktRzsMH",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!RI0KZqdSPktRzsMH"
+}

@@ -1,0 +1,10 @@
+{
+    "DAD": {
+        "SpecificRule": {
+            "DadJoke": {
+                "Encouraged": "Encouraged",
+                "Groaner": "Groaner"
+            }
+        }
+    }
+}

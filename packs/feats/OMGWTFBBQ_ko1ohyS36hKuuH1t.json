@@ -1,0 +1,111 @@
+{
+  "folder": null,
+  "name": "OMGWTFBBQ",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>It might not make a lot of sense to the rest of your team, but you like to start each adventuring day with a little barbecue to grill food granting powerful benefits. And you often barbecue at night too even though it doesn't strengthen your team in the same way… you just really love to barbecue. You gain the @UUID[Compendium.pf2e.feats-srd.Item.9dPz3x6uLCFEB3yK]{Wandering Chef Dedication} feat, even if you normally couldn't take another dedication feat until you take more feats from the dad archetype. When you use the feats from the Wandering Chef archetype, you always do so via barbecue, rather than other cooking styles, even when it makes no sense to barbecue a particular food item. You gain a +1 circumstance bonus to all checks made to barbecue using Crafting or Cooking Lore, and this bonus increases to a +2 circumstance bonus if you're a master in the appropriate skill.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.9dPz3x6uLCFEB3yK"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": [
+          "crafting",
+          "food-lore"
+        ],
+        "value": 1,
+        "predicate": [
+          "bbq"
+        ],
+        "type": "circumstance"
+      },
+      {
+        "key": "AdjustModifier",
+        "selectors": [
+          "crafting",
+          "food-lore"
+        ],
+        "mode": "add",
+        "value": 1,
+        "slug": "omgwtfbbq",
+        "predicate": [
+          {
+            "or": [
+              "proficiency:master",
+              "proficiency:legendary"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "archetype"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 4
+    },
+    "category": "class",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Dad Dedication"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749759943720,
+    "modifiedTime": 1749759943720,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "ko1ohyS36hKuuH1t",
+  "_key": "!items!ko1ohyS36hKuuH1t"
+}

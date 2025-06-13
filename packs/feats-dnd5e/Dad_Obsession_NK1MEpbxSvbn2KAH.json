@@ -1,0 +1,60 @@
+{
+  "name": "Dad Obsession",
+  "type": "feat",
+  "img": "icons/tools/hand/ruler-steel-grey.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You have a particular hobby or obsession, and you won’t stop talking about it to any of your team children. You are proficient in a set of tools other than thieves’ tools associated with your obsession, for instance, gardening tools for a gardening obsession. Whether they care about your obsession or not, your team children can’t help but learn a bit about it through osmosis. All of your team children can add half their proficiency bonus, rounded down with that tool if they wouldn’t already be including their proficiency bonus.</p>",
+      "chat": ""
+    },
+    "identifier": "dad-obsession",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": 3
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749763167866,
+    "modifiedTime": 1749763192431,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "NK1MEpbxSvbn2KAH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!NK1MEpbxSvbn2KAH"
+}

@@ -1,0 +1,78 @@
+{
+  "folder": null,
+  "name": "Dad Dedication",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.94,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Whether they're officially a part of your family or not, you act as a team dad for the other members of your adventuring party, and that means offering your advice and assistance. While you're not necessarily up front about it and might try to hide some of your effort behind the scenes, you'd do anything to see your literal or figurative children succeed. Choose up to five sapient creatures as your team children. They might or might not actually be your children, but either way, you've taken a fatherly role in your group toward them. You gain the @UUID[Compendium.battlezoo-ancestries-dads.actions.Item.qe0QVni94fm3FLjK]{Fatherly Advice} reaction.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Dads",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-dads.actions.Item.qe0QVni94fm3FLjK"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "archetype",
+        "dedication"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 2
+    },
+    "category": "class",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "7.1.1",
+    "createdTime": 1749759943720,
+    "modifiedTime": 1749759943720,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "0HLvpPQxEjsOh1x5",
+  "_key": "!items!0HLvpPQxEjsOh1x5"
+}

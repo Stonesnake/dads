@@ -1,0 +1,112 @@
+{
+  "name": "Cyclops",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>In the days of antiquity, the ancestry of hulking, one-eyed giants known as cyclopes existed in various realms scattered across the world's lands, with civilizations as varied as humans have to this day. As all must do, these mighty nations collapsed over time, and many cyclopes returned to a simpler lifestyle. However, not all cyclopes are ferocious monsters bent on terrorizing and sometimes slaying travelers. In many hidden valleys and distant islands, cyclops settlements have survived. Now the inhabitants of these places—some blessed (or some might say, cursed) with prophetic visions—journey forth to make their way in the wider world.</p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "cyclops",
+        "giant",
+        "humanoid"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Year of Titans",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "hp": 10,
+    "size": "lg",
+    "reach": 5,
+    "speed": 25,
+    "boosts": {
+      "0": {
+        "value": [
+          "str"
+        ]
+      },
+      "1": {
+        "value": [
+          "wis"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "cha"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common",
+        "cyclops"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [
+        "aklo",
+        "dwarven",
+        "jotun",
+        "sakvroth"
+      ],
+      "custom": ""
+    },
+    "items": {
+      "uL5dp": {
+        "uuid": "Compendium.battlezoo-ancestries-year-of-titans-pf2e.yot-features.Item.NPkkbfefB7F55ITp",
+        "img": "icons/commodities/biological/eye-blue.webp",
+        "name": "One Mighty Eye",
+        "level": 1
+      }
+    },
+    "vision": "low-light-vision"
+  },
+  "img": "modules/battlezoo-ancestries-year-of-titans-pf2e/assets/icons/cyclops.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.344",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.1",
+    "createdTime": 1747583443857,
+    "modifiedTime": 1747583460141,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL",
+    "exportSource": null
+  },
+  "_id": "KNct2JiyQtahFEqg",
+  "sort": 0,
+  "_key": "!items!KNct2JiyQtahFEqg"
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Quintessential Sports Dad",
+  "type": "feat",
+  "img": "icons/sundries/flags/banner-flag-blue.webp",
+  "system": {
+    "activities": {
+      "tEa0UNpWBxVoDG0R": {
+        "type": "utility",
+        "name": "Quintessential Sports Dad",
+        "_id": "tEa0UNpWBxVoDG0R",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "ft",
+          "override": false,
+          "value": "60",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "count": "1",
+            "type": "enemy",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>When it comes down to it, the only thing more important than sports is making sure your team children are safe. When an enemy would attack one of your team children within 60 feet, you can take a Reaction to give that enemy Disadvantage on their attack roll. You also gain an additional Reaction each round, which you can only use for one of your three Reactions from the Sports Dad subclass.</p>",
+      "chat": ""
+    },
+    "identifier": "quintessential-sports-dad",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Dads",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "repeatable": false,
+      "level": null
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "M9Ap9szvP8wOzDaC",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "dnd5e",
+    "systemVersion": "5.0.3",
+    "createdTime": 1749765996438,
+    "modifiedTime": 1749765996470,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "lihqITnbIB3trJyP",
+  "sort": 237500,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "_key": "!items!lihqITnbIB3trJyP"
+}
